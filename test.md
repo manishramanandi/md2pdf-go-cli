@@ -7,3 +7,12 @@ This is a **test** Markdown file.
 - Item 3
 
 Here's some `code`.
+
+```C
+#include <stdio.h>
+
+int main(void) {
+    printf("Hello world\n");
+}
+
+```
